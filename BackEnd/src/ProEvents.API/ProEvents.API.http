@@ -1,0 +1,6 @@
+@ProEvents.API_HostAddress = http://localhost:5001
+
+GET {{ProEvents.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
